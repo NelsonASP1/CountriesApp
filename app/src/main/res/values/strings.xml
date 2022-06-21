@@ -7,7 +7,7 @@
     <string name="dialog_loading_error_local_data_message">Could not load countries. Your connectivity may be down or the network unreachable. Anyway, you can proceed by using local data.</string>
     <string name="start_anyway_label">Start anyway</string>
     <string name="exit_app_label">Exit app</string>
-    <string name="search_text_field_hint">Italy, Sweden, United Kingdom</string>
+    <string name="search_text_field_hint">United States, Argentina, Colombia </string>
     <string name="downloading_country_flag_label">Downloading country flags…</string>
     <string name="downloading_coats_of_arms_label">Downloading coats of arms…</string>
     <string name="downloading_country_flag_message">Downloading country flag images…</string>
